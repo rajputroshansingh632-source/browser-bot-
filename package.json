@@ -1,0 +1,11 @@
+{
+  "name": "keepalive-browser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
